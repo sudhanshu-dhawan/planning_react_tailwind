@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/planning_react_tailwind/static/css/main.7c61dde7.css",
+    "main.js": "/planning_react_tailwind/static/js/main.9c216310.js",
+    "static/js/787.4d581315.chunk.js": "/planning_react_tailwind/static/js/787.4d581315.chunk.js",
+    "index.html": "/planning_react_tailwind/index.html",
+    "main.7c61dde7.css.map": "/planning_react_tailwind/static/css/main.7c61dde7.css.map",
+    "main.9c216310.js.map": "/planning_react_tailwind/static/js/main.9c216310.js.map",
+    "787.4d581315.chunk.js.map": "/planning_react_tailwind/static/js/787.4d581315.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c61dde7.css",
+    "static/js/main.9c216310.js"
+  ]
+}
